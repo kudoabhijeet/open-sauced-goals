@@ -1,45 +1,45 @@
 [
   {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
-    "forks_count": 180
+    "forks_count": 182
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 1737,
+    "stargazers_count": 3448,
     "open_issues_count": 0,
-    "forks_count": 255
+    "forks_count": 382
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59691,
-    "open_issues_count": 6028,
-    "forks_count": 9599
+    "stargazers_count": 59716,
+    "open_issues_count": 6024,
+    "forks_count": 9601
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
-    "stargazers_count": 822,
+    "stargazers_count": 823,
     "open_issues_count": 2,
     "forks_count": 78
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3386,
-    "open_issues_count": 161,
-    "forks_count": 351
+    "stargazers_count": 3400,
+    "open_issues_count": 133,
+    "forks_count": 352
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58180,
-    "open_issues_count": 355,
-    "forks_count": 6179
+    "stargazers_count": 58224,
+    "open_issues_count": 356,
+    "forks_count": 6189
   },
   {
     "full_name": "donnemartin/stocks",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5741,
+    "stargazers_count": 5742,
     "open_issues_count": 33,
     "forks_count": 1122
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 182309,
+    "stargazers_count": 182532,
     "open_issues_count": 311,
-    "forks_count": 33153
+    "forks_count": 33195
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 4033,
-    "open_issues_count": 30,
-    "forks_count": 306
+    "stargazers_count": 4170,
+    "open_issues_count": 31,
+    "forks_count": 319
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2241,
-    "open_issues_count": 2,
-    "forks_count": 82
+    "stargazers_count": 2256,
+    "open_issues_count": 3,
+    "forks_count": 83
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 12106,
+    "stargazers_count": 12290,
     "open_issues_count": 149,
-    "forks_count": 810
+    "forks_count": 822
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1340,
-    "open_issues_count": 650,
-    "forks_count": 6691
+    "stargazers_count": 1348,
+    "open_issues_count": 590,
+    "forks_count": 6702
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9681,
-    "open_issues_count": 8629,
-    "forks_count": 7830
+    "stargazers_count": 9698,
+    "open_issues_count": 8634,
+    "forks_count": 7843
   },
   {
     "full_name": "jordan-wright/email",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "harvic3/nodetskeleton",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 87431,
-    "open_issues_count": 1183,
-    "forks_count": 18575
+    "stargazers_count": 87542,
+    "open_issues_count": 1196,
+    "forks_count": 18611
   },
   {
     "full_name": "happysingh23828/Android-Clean-Architecture",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "adrianhajdin/project_modern_ui_ux_gpt3",
-    "stargazers_count": 1300,
+    "stargazers_count": 1306,
     "open_issues_count": 7,
-    "forks_count": 334
+    "forks_count": 336
   },
   {
     "full_name": "championswimmer/shitposting-bot",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "square/moshi",
-    "stargazers_count": 8263,
-    "open_issues_count": 78,
-    "forks_count": 677
+    "stargazers_count": 8267,
+    "open_issues_count": 79,
+    "forks_count": 678
   }
 ]
