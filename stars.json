@@ -1,21 +1,45 @@
 [
   {
+    "full_name": "prinick96/hex-arch-go",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "RivuChk/Jetpack-Compose-MVI-Demo",
+    "stargazers_count": 128,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
+    "full_name": "localstack/localstack",
+    "stargazers_count": 41411,
+    "open_issues_count": 349,
+    "forks_count": 3084
+  },
+  {
+    "full_name": "aws-quickstart/quickstart-amazon-eks",
+    "stargazers_count": 375,
+    "open_issues_count": 71,
+    "forks_count": 329
+  },
+  {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 48,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 184
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 3851,
+    "stargazers_count": 4627,
     "open_issues_count": 0,
-    "forks_count": 409
+    "forks_count": 498
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59726,
-    "open_issues_count": 6014,
-    "forks_count": 9602
+    "stargazers_count": 59754,
+    "open_issues_count": 6005,
+    "forks_count": 9610
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -25,9 +49,9 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3404,
-    "open_issues_count": 133,
-    "forks_count": 352
+    "stargazers_count": 3407,
+    "open_issues_count": 134,
+    "forks_count": 357
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
@@ -37,9 +61,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58254,
-    "open_issues_count": 355,
-    "forks_count": 6191
+    "stargazers_count": 58318,
+    "open_issues_count": 357,
+    "forks_count": 6205
   },
   {
     "full_name": "donnemartin/stocks",
@@ -49,21 +73,21 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5742,
+    "stargazers_count": 5741,
     "open_issues_count": 33,
-    "forks_count": 1122
+    "forks_count": 1123
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 182629,
-    "open_issues_count": 311,
-    "forks_count": 33210
+    "stargazers_count": 182910,
+    "open_issues_count": 312,
+    "forks_count": 33252
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 4216,
+    "stargazers_count": 4297,
     "open_issues_count": 32,
-    "forks_count": 321
+    "forks_count": 336
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -73,7 +97,7 @@
   },
   {
     "full_name": "qurbat/upi-recon",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 6,
     "forks_count": 12
   },
@@ -85,21 +109,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2259,
-    "open_issues_count": 3,
-    "forks_count": 84
+    "stargazers_count": 2289,
+    "open_issues_count": 4,
+    "forks_count": 87
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 12367,
-    "open_issues_count": 146,
-    "forks_count": 826
+    "stargazers_count": 12560,
+    "open_issues_count": 149,
+    "forks_count": 842
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1350,
-    "open_issues_count": 587,
-    "forks_count": 6702
+    "stargazers_count": 1357,
+    "open_issues_count": 562,
+    "forks_count": 6703
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -109,13 +133,13 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9704,
-    "open_issues_count": 8618,
-    "forks_count": 7848
+    "stargazers_count": 9725,
+    "open_issues_count": 8692,
+    "forks_count": 7868
   },
   {
     "full_name": "jordan-wright/email",
-    "stargazers_count": 2054,
+    "stargazers_count": 2056,
     "open_issues_count": 52,
     "forks_count": 276
   },
@@ -127,15 +151,15 @@
   },
   {
     "full_name": "harvic3/nodetskeleton",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 87587,
-    "open_issues_count": 1203,
-    "forks_count": 18631
+    "stargazers_count": 87688,
+    "open_issues_count": 1210,
+    "forks_count": 18655
   },
   {
     "full_name": "happysingh23828/Android-Clean-Architecture",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "adrianhajdin/project_modern_ui_ux_gpt3",
-    "stargazers_count": 1308,
+    "stargazers_count": 1314,
     "open_issues_count": 7,
-    "forks_count": 338
-  },
-  {
-    "full_name": "championswimmer/shitposting-bot",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "shubhamd99/kotlin-android-development",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "gothinkster/kotlin-spring-realworld-example-app",
-    "stargazers_count": 397,
-    "open_issues_count": 3,
-    "forks_count": 101
-  },
-  {
-    "full_name": "square/moshi",
-    "stargazers_count": 8264,
-    "open_issues_count": 79,
-    "forks_count": 678
+    "forks_count": 339
   }
 ]
