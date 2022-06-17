@@ -1,13 +1,13 @@
 [
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7438,
+    "stargazers_count": 7440,
     "open_issues_count": 119,
     "forks_count": 589
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8345,
+    "stargazers_count": 8346,
     "open_issues_count": 5,
     "forks_count": 1254
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41531,
-    "open_issues_count": 344,
-    "forks_count": 3091
+    "stargazers_count": 41571,
+    "open_issues_count": 354,
+    "forks_count": 3096
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 1,
     "forks_count": 188
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5374,
+    "stargazers_count": 5472,
     "open_issues_count": 0,
-    "forks_count": 575
+    "forks_count": 584
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59860,
-    "open_issues_count": 6030,
+    "stargazers_count": 59877,
+    "open_issues_count": 6012,
     "forks_count": 9637
   },
   {
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3442,
-    "open_issues_count": 136,
-    "forks_count": 361
+    "stargazers_count": 3447,
+    "open_issues_count": 142,
+    "forks_count": 364
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58532,
+    "stargazers_count": 58581,
     "open_issues_count": 357,
-    "forks_count": 6221
+    "forks_count": 6228
   },
   {
     "full_name": "donnemartin/stocks",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5745,
+    "stargazers_count": 5746,
     "open_issues_count": 33,
     "forks_count": 1124
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 183855,
-    "open_issues_count": 313,
-    "forks_count": 33461
+    "stargazers_count": 184048,
+    "open_issues_count": 314,
+    "forks_count": 33502
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5063,
-    "open_issues_count": 28,
-    "forks_count": 443
+    "stargazers_count": 5170,
+    "open_issues_count": 35,
+    "forks_count": 457
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2356,
+    "stargazers_count": 2368,
     "open_issues_count": 2,
     "forks_count": 88
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 12976,
+    "stargazers_count": 13057,
     "open_issues_count": 155,
-    "forks_count": 882
+    "forks_count": 895
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1400,
+    "stargazers_count": 1401,
     "open_issues_count": 565,
-    "forks_count": 6702
+    "forks_count": 6698
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9787,
-    "open_issues_count": 8809,
-    "forks_count": 7914
+    "stargazers_count": 9796,
+    "open_issues_count": 8819,
+    "forks_count": 7923
   },
   {
     "full_name": "jordan-wright/email",
-    "stargazers_count": 2060,
+    "stargazers_count": 2065,
     "open_issues_count": 52,
-    "forks_count": 277
+    "forks_count": 278
   },
   {
     "full_name": "Zomato/sushi-ui-android",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "harvic3/nodetskeleton",
-    "stargazers_count": 156,
+    "stargazers_count": 158,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 88053,
-    "open_issues_count": 1213,
-    "forks_count": 18794
+    "stargazers_count": 88165,
+    "open_issues_count": 1220,
+    "forks_count": 18827
   },
   {
     "full_name": "happysingh23828/Android-Clean-Architecture",
