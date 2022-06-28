@@ -1,37 +1,37 @@
 [
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44535,
-    "open_issues_count": 90,
-    "forks_count": 2994
+    "stargazers_count": 44598,
+    "open_issues_count": 92,
+    "forks_count": 3002
   },
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7450,
+    "stargazers_count": 7451,
     "open_issues_count": 120,
-    "forks_count": 589
+    "forks_count": 591
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8363,
+    "stargazers_count": 8366,
     "open_issues_count": 5,
     "forks_count": 1257
   },
   {
     "full_name": "prinick96/hex-arch-go",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "RivuChk/Jetpack-Compose-MVI-Demo",
-    "stargazers_count": 136,
+    "stargazers_count": 135,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41771,
+    "stargazers_count": 41812,
     "open_issues_count": 362,
     "forks_count": 3109
   },
@@ -39,25 +39,25 @@
     "full_name": "aws-quickstart/quickstart-amazon-eks",
     "stargazers_count": 377,
     "open_issues_count": 74,
-    "forks_count": 330
+    "forks_count": 331
   },
   {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
-    "forks_count": 188
+    "forks_count": 187
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5958,
+    "stargazers_count": 6008,
     "open_issues_count": 0,
-    "forks_count": 643
+    "forks_count": 650
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59931,
-    "open_issues_count": 6019,
-    "forks_count": 9649
+    "stargazers_count": 59950,
+    "open_issues_count": 6017,
+    "forks_count": 9652
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3480,
-    "open_issues_count": 141,
-    "forks_count": 370
+    "stargazers_count": 3486,
+    "open_issues_count": 142,
+    "forks_count": 373
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58824,
-    "open_issues_count": 358,
-    "forks_count": 6245
+    "stargazers_count": 58883,
+    "open_issues_count": 359,
+    "forks_count": 6259
   },
   {
     "full_name": "donnemartin/stocks",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5752,
+    "stargazers_count": 5754,
     "open_issues_count": 33,
-    "forks_count": 1126
+    "forks_count": 1127
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 184862,
+    "stargazers_count": 185101,
     "open_issues_count": 315,
-    "forks_count": 33633
+    "forks_count": 33678
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5307,
-    "open_issues_count": 22,
-    "forks_count": 479
+    "stargazers_count": 5347,
+    "open_issues_count": 24,
+    "forks_count": 491
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "qurbat/upi-recon",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 6,
     "forks_count": 12
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2423,
+    "stargazers_count": 2448,
     "open_issues_count": 0,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13379,
-    "open_issues_count": 161,
-    "forks_count": 914
+    "stargazers_count": 13462,
+    "open_issues_count": 165,
+    "forks_count": 922
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1414,
-    "open_issues_count": 564,
-    "forks_count": 6675
+    "stargazers_count": 1415,
+    "open_issues_count": 566,
+    "forks_count": 6670
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9840,
-    "open_issues_count": 8775,
-    "forks_count": 7977
+    "stargazers_count": 9859,
+    "open_issues_count": 8839,
+    "forks_count": 8001
   },
   {
     "full_name": "jordan-wright/email",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 88530,
-    "open_issues_count": 1186,
-    "forks_count": 18948
+    "stargazers_count": 88655,
+    "open_issues_count": 1180,
+    "forks_count": 18996
   }
 ]
