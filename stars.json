@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "do-community/do-article-templates",
+    "stargazers_count": 122,
+    "open_issues_count": 2,
+    "forks_count": 76
+  },
+  {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44627,
-    "open_issues_count": 92,
-    "forks_count": 3004
+    "stargazers_count": 44674,
+    "open_issues_count": 88,
+    "forks_count": 3008
   },
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7455,
+    "stargazers_count": 7456,
     "open_issues_count": 120,
-    "forks_count": 591
+    "forks_count": 590
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8368,
+    "stargazers_count": 8372,
     "open_issues_count": 5,
-    "forks_count": 1258
+    "forks_count": 1259
   },
   {
     "full_name": "prinick96/hex-arch-go",
@@ -31,33 +37,33 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41828,
-    "open_issues_count": 365,
-    "forks_count": 3110
+    "stargazers_count": 41856,
+    "open_issues_count": 364,
+    "forks_count": 3112
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
-    "stargazers_count": 377,
-    "open_issues_count": 74,
-    "forks_count": 332
+    "stargazers_count": 378,
+    "open_issues_count": 76,
+    "forks_count": 335
   },
   {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 0,
     "forks_count": 187
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6018,
+    "stargazers_count": 6038,
     "open_issues_count": 0,
-    "forks_count": 655
+    "forks_count": 656
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59959,
-    "open_issues_count": 6018,
-    "forks_count": 9653
+    "stargazers_count": 59967,
+    "open_issues_count": 6006,
+    "forks_count": 9654
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3490,
-    "open_issues_count": 140,
+    "stargazers_count": 3500,
+    "open_issues_count": 142,
     "forks_count": 375
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
     "stargazers_count": 10,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58921,
+    "stargazers_count": 58972,
     "open_issues_count": 360,
-    "forks_count": 6261
+    "forks_count": 6268
   },
   {
     "full_name": "donnemartin/stocks",
@@ -93,19 +99,19 @@
     "full_name": "donnemartin/dev-setup",
     "stargazers_count": 5754,
     "open_issues_count": 33,
-    "forks_count": 1127
+    "forks_count": 1128
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 185222,
+    "stargazers_count": 185440,
     "open_issues_count": 315,
-    "forks_count": 33694
+    "forks_count": 33749
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5362,
-    "open_issues_count": 25,
-    "forks_count": 494
+    "stargazers_count": 5395,
+    "open_issues_count": 32,
+    "forks_count": 501
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2454,
-    "open_issues_count": 1,
+    "stargazers_count": 2466,
+    "open_issues_count": 0,
     "forks_count": 94
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13496,
+    "stargazers_count": 13531,
     "open_issues_count": 157,
-    "forks_count": 923
+    "forks_count": 933
   },
   {
     "full_name": "education/GitHubGraduation-2022",
     "stargazers_count": 1418,
-    "open_issues_count": 566,
-    "forks_count": 6666
+    "open_issues_count": 552,
+    "forks_count": 6661
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9865,
-    "open_issues_count": 8874,
-    "forks_count": 8005
+    "stargazers_count": 9877,
+    "open_issues_count": 8917,
+    "forks_count": 8021
   },
   {
     "full_name": "jordan-wright/email",
@@ -172,11 +178,5 @@
     "stargazers_count": 159,
     "open_issues_count": 0,
     "forks_count": 19
-  },
-  {
-    "full_name": "vercel/next.js",
-    "stargazers_count": 88708,
-    "open_issues_count": 1194,
-    "forks_count": 19015
   }
 ]
