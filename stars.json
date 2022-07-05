@@ -1,25 +1,37 @@
 [
   {
+    "full_name": "kamranahmedse/developer-roadmap",
+    "stargazers_count": 199229,
+    "open_issues_count": 160,
+    "forks_count": 28501
+  },
+  {
+    "full_name": "Unitech/pm2",
+    "stargazers_count": 37288,
+    "open_issues_count": 616,
+    "forks_count": 2437
+  },
+  {
     "full_name": "do-community/do-article-templates",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 2,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44688,
-    "open_issues_count": 88,
-    "forks_count": 3010
+    "stargazers_count": 44724,
+    "open_issues_count": 89,
+    "forks_count": 3014
   },
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7456,
+    "stargazers_count": 7458,
     "open_issues_count": 120,
     "forks_count": 590
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8372,
+    "stargazers_count": 8376,
     "open_issues_count": 5,
     "forks_count": 1259
   },
@@ -37,33 +49,33 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41869,
+    "stargazers_count": 41893,
     "open_issues_count": 357,
-    "forks_count": 3111
+    "forks_count": 3114
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
     "stargazers_count": 378,
     "open_issues_count": 76,
-    "forks_count": 335
+    "forks_count": 336
   },
   {
     "full_name": "geshan/nodejs-posgresql",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 0,
-    "forks_count": 187
+    "forks_count": 189
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6046,
+    "stargazers_count": 6111,
     "open_issues_count": 0,
-    "forks_count": 660
+    "forks_count": 688
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 59977,
-    "open_issues_count": 6000,
-    "forks_count": 9654
+    "stargazers_count": 60000,
+    "open_issues_count": 5997,
+    "forks_count": 9657
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -73,8 +85,8 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3505,
-    "open_issues_count": 142,
+    "stargazers_count": 3513,
+    "open_issues_count": 140,
     "forks_count": 375
   },
   {
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58997,
+    "stargazers_count": 59070,
     "open_issues_count": 360,
-    "forks_count": 6267
+    "forks_count": 6273
   },
   {
     "full_name": "donnemartin/stocks",
@@ -97,21 +109,21 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5754,
+    "stargazers_count": 5755,
     "open_issues_count": 33,
     "forks_count": 1128
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 185674,
-    "open_issues_count": 315,
-    "forks_count": 33771
+    "stargazers_count": 186513,
+    "open_issues_count": 317,
+    "forks_count": 33900
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5406,
-    "open_issues_count": 32,
-    "forks_count": 504
+    "stargazers_count": 5436,
+    "open_issues_count": 33,
+    "forks_count": 510
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2478,
+    "stargazers_count": 2497,
     "open_issues_count": 0,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13549,
-    "open_issues_count": 158,
-    "forks_count": 938
+    "stargazers_count": 13605,
+    "open_issues_count": 157,
+    "forks_count": 945
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1420,
+    "stargazers_count": 1421,
     "open_issues_count": 549,
-    "forks_count": 6654
+    "forks_count": 6655
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "NixOS/nixpkgs",
-    "stargazers_count": 9880,
-    "open_issues_count": 8841,
-    "forks_count": 8025
+    "stargazers_count": 9889,
+    "open_issues_count": 8881,
+    "forks_count": 8040
   },
   {
     "full_name": "jordan-wright/email",
-    "stargazers_count": 2073,
+    "stargazers_count": 2077,
     "open_issues_count": 52,
     "forks_count": 279
-  },
-  {
-    "full_name": "Zomato/sushi-ui-android",
-    "stargazers_count": 79,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "harvic3/nodetskeleton",
-    "stargazers_count": 161,
-    "open_issues_count": 0,
-    "forks_count": 19
   }
 ]
