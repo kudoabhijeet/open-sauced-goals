@@ -1,27 +1,27 @@
 [
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 66858,
+    "stargazers_count": 66919,
     "open_issues_count": 56,
-    "forks_count": 6198
+    "forks_count": 6200
   },
   {
     "full_name": "CRED-CLUB/neopop-web",
-    "stargazers_count": 490,
-    "open_issues_count": 4,
-    "forks_count": 83
+    "stargazers_count": 601,
+    "open_issues_count": 5,
+    "forks_count": 88
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 199785,
-    "open_issues_count": 163,
-    "forks_count": 28558
+    "stargazers_count": 199966,
+    "open_issues_count": 164,
+    "forks_count": 28576
   },
   {
     "full_name": "Unitech/pm2",
-    "stargazers_count": 37314,
-    "open_issues_count": 617,
-    "forks_count": 2439
+    "stargazers_count": 37320,
+    "open_issues_count": 618,
+    "forks_count": 2441
   },
   {
     "full_name": "do-community/do-article-templates",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44833,
+    "stargazers_count": 44852,
     "open_issues_count": 88,
-    "forks_count": 3031
+    "forks_count": 3032
   },
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7461,
+    "stargazers_count": 7464,
     "open_issues_count": 120,
-    "forks_count": 590
+    "forks_count": 591
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8381,
+    "stargazers_count": 8385,
     "open_issues_count": 5,
     "forks_count": 1259
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41972,
-    "open_issues_count": 354,
-    "forks_count": 3119
+    "stargazers_count": 41984,
+    "open_issues_count": 353,
+    "forks_count": 3121
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6137,
-    "open_issues_count": 0,
-    "forks_count": 691
+    "stargazers_count": 6145,
+    "open_issues_count": 1,
+    "forks_count": 692
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 60035,
-    "open_issues_count": 5997,
+    "stargazers_count": 60039,
+    "open_issues_count": 5998,
     "forks_count": 9661
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3530,
-    "open_issues_count": 141,
+    "stargazers_count": 3535,
+    "open_issues_count": 142,
     "forks_count": 376
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 59171,
+    "stargazers_count": 59194,
     "open_issues_count": 360,
-    "forks_count": 6284
+    "forks_count": 6285
   },
   {
     "full_name": "donnemartin/stocks",
@@ -123,19 +123,19 @@
     "full_name": "donnemartin/dev-setup",
     "stargazers_count": 5759,
     "open_issues_count": 33,
-    "forks_count": 1128
+    "forks_count": 1127
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 187134,
+    "stargazers_count": 187245,
     "open_issues_count": 318,
-    "forks_count": 33996
+    "forks_count": 34019
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5489,
+    "stargazers_count": 5505,
     "open_issues_count": 32,
-    "forks_count": 512
+    "forks_count": 516
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2521,
+    "stargazers_count": 2536,
     "open_issues_count": 1,
-    "forks_count": 96
+    "forks_count": 98
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 13680,
-    "open_issues_count": 163,
-    "forks_count": 956
+    "stargazers_count": 13707,
+    "open_issues_count": 168,
+    "forks_count": 957
   },
   {
     "full_name": "education/GitHubGraduation-2022",
-    "stargazers_count": 1420,
+    "stargazers_count": 1421,
     "open_issues_count": 547,
-    "forks_count": 6650
+    "forks_count": 6646
   },
   {
     "full_name": "printezisn/spring-boot-microservices-starter",
