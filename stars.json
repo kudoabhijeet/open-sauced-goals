@@ -1,33 +1,33 @@
 [
   {
     "full_name": "karngyan/karngyan.com",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 0,
     "forks_count": 90
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 7417,
+    "stargazers_count": 7438,
     "open_issues_count": 75,
     "forks_count": 239
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 25240,
-    "open_issues_count": 266,
-    "forks_count": 496
+    "stargazers_count": 25719,
+    "open_issues_count": 262,
+    "forks_count": 506
   },
   {
     "full_name": "python/typeshed",
-    "stargazers_count": 2998,
-    "open_issues_count": 163,
-    "forks_count": 1358
+    "stargazers_count": 2999,
+    "open_issues_count": 162,
+    "forks_count": 1357
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6109,
-    "open_issues_count": 430,
-    "forks_count": 1876
+    "stargazers_count": 6110,
+    "open_issues_count": 433,
+    "forks_count": 1881
   },
   {
     "full_name": "arpitbbhayani/knowledge-base",
@@ -37,39 +37,39 @@
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 67027,
+    "stargazers_count": 67042,
     "open_issues_count": 58,
-    "forks_count": 6212
+    "forks_count": 6213
   },
   {
     "full_name": "CRED-CLUB/neopop-web",
-    "stargazers_count": 774,
-    "open_issues_count": 10,
+    "stargazers_count": 777,
+    "open_issues_count": 6,
     "forks_count": 107
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 201180,
-    "open_issues_count": 170,
-    "forks_count": 28702
+    "stargazers_count": 201375,
+    "open_issues_count": 172,
+    "forks_count": 28718
   },
   {
     "full_name": "Unitech/pm2",
-    "stargazers_count": 37352,
-    "open_issues_count": 620,
-    "forks_count": 2441
+    "stargazers_count": 37361,
+    "open_issues_count": 618,
+    "forks_count": 2442
   },
   {
     "full_name": "do-community/do-article-templates",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 2,
     "forks_count": 78
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44992,
+    "stargazers_count": 45008,
     "open_issues_count": 96,
-    "forks_count": 3043
+    "forks_count": 3041
   },
   {
     "full_name": "kelektiv/node-cron",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 42065,
-    "open_issues_count": 365,
-    "forks_count": 3137
+    "stargazers_count": 42075,
+    "open_issues_count": 363,
+    "forks_count": 3138
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
@@ -111,19 +111,19 @@
     "full_name": "geshan/nodejs-posgresql",
     "stargazers_count": 57,
     "open_issues_count": 0,
-    "forks_count": 194
+    "forks_count": 193
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6234,
+    "stargazers_count": 6248,
     "open_issues_count": 1,
-    "forks_count": 702
+    "forks_count": 704
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 60093,
-    "open_issues_count": 5994,
-    "forks_count": 9670
+    "stargazers_count": 60109,
+    "open_issues_count": 5993,
+    "forks_count": 9672
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3555,
+    "stargazers_count": 3559,
     "open_issues_count": 140,
     "forks_count": 377
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 59371,
-    "open_issues_count": 360,
-    "forks_count": 6307
+    "stargazers_count": 59412,
+    "open_issues_count": 361,
+    "forks_count": 6308
   },
   {
     "full_name": "donnemartin/stocks",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 188425,
+    "stargazers_count": 188572,
     "open_issues_count": 319,
-    "forks_count": 34167
+    "forks_count": 34192
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5575,
+    "stargazers_count": 5589,
     "open_issues_count": 35,
-    "forks_count": 527
+    "forks_count": 530
   },
   {
     "full_name": "kudoabhijeet/url-shortener",
