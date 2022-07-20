@@ -1,9 +1,9 @@
 [
   {
     "full_name": "uptrace/bun",
-    "stargazers_count": 1221,
+    "stargazers_count": 1225,
     "open_issues_count": 46,
-    "forks_count": 81
+    "forks_count": 84
   },
   {
     "full_name": "karngyan/karngyan.com",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 7564,
-    "open_issues_count": 76,
-    "forks_count": 246
+    "stargazers_count": 7611,
+    "open_issues_count": 78,
+    "forks_count": 250
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 26964,
-    "open_issues_count": 281,
-    "forks_count": 547
+    "stargazers_count": 27316,
+    "open_issues_count": 284,
+    "forks_count": 557
   },
   {
     "full_name": "python/typeshed",
-    "stargazers_count": 3008,
-    "open_issues_count": 154,
-    "forks_count": 1361
+    "stargazers_count": 3009,
+    "open_issues_count": 146,
+    "forks_count": 1362
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6121,
-    "open_issues_count": 440,
-    "forks_count": 1889
+    "stargazers_count": 6123,
+    "open_issues_count": 432,
+    "forks_count": 1897
   },
   {
     "full_name": "arpitbbhayani/knowledge-base",
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 67125,
+    "stargazers_count": 67177,
     "open_issues_count": 58,
-    "forks_count": 6227
+    "forks_count": 6241
   },
   {
     "full_name": "CRED-CLUB/neopop-web",
-    "stargazers_count": 782,
+    "stargazers_count": 783,
     "open_issues_count": 7,
-    "forks_count": 107
+    "forks_count": 108
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 201942,
-    "open_issues_count": 174,
-    "forks_count": 28790
+    "stargazers_count": 202176,
+    "open_issues_count": 176,
+    "forks_count": 28823
   },
   {
     "full_name": "Unitech/pm2",
-    "stargazers_count": 37376,
+    "stargazers_count": 37381,
     "open_issues_count": 618,
     "forks_count": 2442
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 45097,
+    "stargazers_count": 45120,
     "open_issues_count": 97,
-    "forks_count": 3047
+    "forks_count": 3051
   },
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7469,
+    "stargazers_count": 7470,
     "open_issues_count": 120,
-    "forks_count": 591
+    "forks_count": 592
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8401,
-    "open_issues_count": 5,
-    "forks_count": 1259
+    "stargazers_count": 8402,
+    "open_issues_count": 6,
+    "forks_count": 1260
   },
   {
     "full_name": "prinick96/hex-arch-go",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 42106,
-    "open_issues_count": 366,
-    "forks_count": 3138
+    "stargazers_count": 42125,
+    "open_issues_count": 372,
+    "forks_count": 3142
   },
   {
     "full_name": "aws-quickstart/quickstart-amazon-eks",
@@ -117,19 +117,19 @@
     "full_name": "geshan/nodejs-posgresql",
     "stargazers_count": 58,
     "open_issues_count": 0,
-    "forks_count": 196
+    "forks_count": 197
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6280,
+    "stargazers_count": 6290,
     "open_issues_count": 1,
-    "forks_count": 712
+    "forks_count": 715
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 60122,
-    "open_issues_count": 6014,
-    "forks_count": 9673
+    "stargazers_count": 60130,
+    "open_issues_count": 6008,
+    "forks_count": 9674
   },
   {
     "full_name": "hitherejoe/ComposeAcademy-Playground",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "fluxcd/flux2",
-    "stargazers_count": 3571,
-    "open_issues_count": 141,
-    "forks_count": 379
+    "stargazers_count": 3576,
+    "open_issues_count": 142,
+    "forks_count": 381
   },
   {
     "full_name": "andrewbaisden/complete-react-developer",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 59463,
+    "stargazers_count": 59490,
     "open_issues_count": 361,
-    "forks_count": 6316
+    "forks_count": 6317
   },
   {
     "full_name": "donnemartin/stocks",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "donnemartin/dev-setup",
-    "stargazers_count": 5764,
+    "stargazers_count": 5765,
     "open_issues_count": 33,
     "forks_count": 1129
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 189249,
+    "stargazers_count": 189494,
     "open_issues_count": 319,
-    "forks_count": 34272
+    "forks_count": 34308
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5623,
+    "stargazers_count": 5647,
     "open_issues_count": 38,
-    "forks_count": 537
+    "forks_count": 540
   }
 ]
